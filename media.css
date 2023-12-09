@@ -1,0 +1,167 @@
+@media (max-width: 1200px) {
+  .burger-menu {
+    display: block;
+  }
+}
+@media (max-width: 1024px) {
+  .nav-links a {
+    color: #343434;
+    font-family: Open Sans;
+    font-size: 10px;
+    text-transform: uppercase;
+    font-weight: 600;
+    line-height: 150%;
+    text-decoration: none;
+    display: none;
+  }
+  .burger-menu {
+    width: 25px;
+    height: 23px;
+    margin-left: 600px;
+    display: block;
+  }
+  .ugol {
+    width: 49px;
+    height: 48px;
+    background: #a9c2be;
+    text-align: end;
+    margin-left: -30px;
+  }
+  .mebel-text {
+    margin-left: 30px;
+  }
+  .mebel-text h1 {
+    width: 430px;
+    color: #343434;
+    font-family: Raleway;
+    font-size: 25px;
+
+    font-weight: 400;
+    line-height: 127.5%;
+    margin-top: -45px;
+    letter-spacing: 1.5px;
+  }
+  .mebel-text p {
+    width: 300px;
+    height: 122px;
+    color: #343434;
+    font-family: Raleway;
+    font-size: 15px;
+    margin-top: 40px;
+    font-weight: 300;
+    line-height: 135%;
+    letter-spacing: 1.08px;
+    text-align: center;
+  }
+  .mebel-img {
+    width: 230px;
+    height: 280px;
+    background: #a9c2be;
+    margin-top: 25px;
+    margin-left: -900px;
+  }
+  .mebel-img img {
+    margin-left: -200px;
+    width: 380px;
+    height: 263px;
+  }
+  .mebel2-text span {
+    color: white;
+  }
+  .hero2-content {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-left: 20px;
+  }
+  .mebel2-text h1 {
+    width: 430px;
+    color: #343434;
+    font-family: Raleway;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 127.5%;
+    margin-top: -45px;
+    letter-spacing: 1.5px;
+  }
+  .p p {
+    width: 400px;
+    height: 122px;
+    color: #343434;
+    font-family: Raleway;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 135%;
+    letter-spacing: 1.08px;
+    margin-top: 90px;
+    text-align: center;
+  }
+  .mebel2-img img {
+    margin-top: -30px;
+    margin-left: 80px;
+    width: 380px;
+    height: 263px;
+  }
+  .mebel2-img {
+    width: 282px;
+    height: 333px;
+    background: #a9c2be;
+    margin-top: 120px;
+    margin-left: -780px;
+    width: 230px;
+    height: 280px;
+    background: #a9c2be;
+    margin-top: 100px;
+  }
+  .real-proect h1 {
+    color: #0e0e0e;
+    font-family: Raleway;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 160px;
+    margin-left: 270px;
+  }
+  .real-proect-img {
+    margin-top: 80px;
+    padding: 0px 0px 20px 20px;
+  }
+  .real-proect2 {
+    display: none;
+  }
+  .backgrounds {
+    margin-left: -180px;
+  }
+  .back1 {
+    width: 970px;
+    height: 453px;
+    margin-left: 180px;
+  }
+  .back2 {
+    display: none;
+  }
+  .back3 img {
+    width: 540px;
+    height: 439px;
+    margin-top: -480px;
+  }
+  .back4 {
+    margin-top: -600px;
+  }
+  .zad2 img {
+  }
+  .zad2 {
+    margin-left: 00px;
+  }
+  .post-content {
+    position: absolute;
+    margin-left: 400px;
+  }
+}
+@media (max-width: 768px) {
+}
+@media (max-width: 480px) {
+}
+@media (max-width: 380px) {
+}
