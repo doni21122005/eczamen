@@ -49,6 +49,13 @@ body {
   text-align: end;
   margin-left: -40px;
 }
+.ugol3 {
+  width: 59px;
+  height: 58px;
+  background: #a9c2be;
+  text-align: end;
+  margin-left: 10px;
+}
 .mebel-text {
   margin-left: 40px;
 }
@@ -67,6 +74,31 @@ body {
   letter-spacing: 1.5px;
 }
 .mebel-text p {
+  width: 531px;
+  height: 122px;
+  color: #343434;
+  font-family: Raleway;
+  font-size: 18px;
+  margin-top: 40px;
+  font-weight: 300;
+  line-height: 135%;
+  letter-spacing: 1.08px;
+}
+.mebel3-text span {
+  color: white;
+}
+.mebel3-text h1 {
+  width: 436px;
+  color: #343434;
+  font-family: Raleway;
+  font-size: 30px;
+  margin-left: 45px;
+  font-weight: 600;
+  line-height: 127.5%;
+  margin-top: -45px;
+  letter-spacing: 1.5px;
+}
+.mebel3-text p {
   width: 531px;
   height: 122px;
   color: #343434;
@@ -124,7 +156,7 @@ body {
 .mebel2-img {
   width: 282px;
   height: 333px;
-  background: #a9c2be;
+  background: #565656;
   margin-top: 120px;
   margin-left: -780px;
 }

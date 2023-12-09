@@ -162,6 +162,64 @@
 @media (max-width: 768px) {
 }
 @media (max-width: 480px) {
+  .nav-links img {
+    width: 91.998px;
+    height: 34px;
+    flex-shrink: 0;
+  }
+  .mebel-text h1 {
+    color: #0e0e0e;
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 127.5%; /* 25.5px */
+    font-variant: small-caps;
+    letter-spacing: 1px;
+  }
+  .mebel-text h1 span {
+    color: #fff;
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 127.5%; /* 25.5px */
+    font-variant: small-caps;
+    letter-spacing: 1px;
+    margin-left: 5px;
+  }
+
+  .mebel-text p {
+    color: #343434;
+    font-family: Raleway;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 135%; /* 18.9px */
+    letter-spacing: 0.84px;
+  }
+  .mebel-img img {
+    width: 340px;
+    height: 251px;
+    flex-shrink: 0;
+  }
+  .mebel-img {
+    margin-top: 300px;
+  }
+  .mebel2-img img {
+    width: 340px;
+    height: 252px;
+    margin-top: 220px;
+    margin-left: 300px;
+  }
+  .mebel3-text h1 {
+    margin-top: 100px;
+  }
+  .ugol3 {
+    margin-top: 100px;
+  }
+  .mebel2-img {
+  }
 }
 @media (max-width: 380px) {
 }
