@@ -212,14 +212,49 @@
     margin-top: 220px;
     margin-left: 300px;
   }
-  .mebel3-text h1 {
-    margin-top: 100px;
+  .mebel3-text{
+  margin-top: 150px;
   }
-  .ugol3 {
-    margin-top: 100px;
-  }
-  .mebel2-img {
-  }
+.mebel3-img{
+  margin-top: 400px;
+  margin-left: -600px;
+}
+.p p{
+  width: 286px;
+}
+.real-proect h1{
+  margin-left: 10px;
+}
+.back3 img{
+ display: none;
+}
+.opis{
+  margin-left: 100px;
+}
+.opis p{
+  width: 300px;
+}
+.logos{
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+  margin-left: 60px;
+  gap: 40px;
+  
+}
+.zad2 img{
+  display: none;
+}
+.big-c {
+  display: none;
+}
+.zad2 {
+  margin-left: 1px;
+  display: none;
+}
+.post2{
+ position: absolute;
+ margin-left: -300px;
 }
 @media (max-width: 380px) {
 }
